@@ -1,0 +1,9 @@
+POST http://localhost:3030/api/task
+
+Content-Type: application/json
+
+
+[
+    "title": "Coool",
+    "Description": "Mas Team"
+]
